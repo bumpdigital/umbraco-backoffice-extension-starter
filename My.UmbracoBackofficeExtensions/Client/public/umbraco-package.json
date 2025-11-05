@@ -1,0 +1,14 @@
+{
+  "id": "My.UmbracoBackofficeExtensions",
+  "name": "My Umbraco Backoffice Extensions",
+  "version": "0.0.0",
+  "allowTelemetry": true,
+  "extensions": [
+    {
+      "name": "My Umbraco Backoffice Extensions",
+      "alias": "My.UmbracoBackofficeExtensions.Bundle",
+      "type": "bundle",
+      "js": "/App_Plugins/UmbracoBackofficeExtensions/umbraco-backoffice-extensions.js"
+    }
+  ]
+}
